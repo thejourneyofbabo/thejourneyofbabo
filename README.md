@@ -34,6 +34,8 @@
   - Bachelors of Automotive Engineering
   - Rust Developer
 
+[LinkedIn](linkedin.com/in/jisang-yun-097127271)
+
 
 
 <!--
