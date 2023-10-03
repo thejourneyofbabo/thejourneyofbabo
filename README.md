@@ -1,8 +1,8 @@
 ### Hi there 👋
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Jisang%_Yun)
-  
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Jisang%_Yun&fontcolor=#000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=230&section=header&text=Jisang%20Yun&fontSize=80&animation=fadeIn&fontAlignY=38&desc=The%20Journey%20of%20or%20Babo%20&descAlignY=60&descAlign=62)
 ####  :wave: Welcome my github profile !
 
  <br/>
