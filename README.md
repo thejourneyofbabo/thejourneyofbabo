@@ -21,10 +21,18 @@
 #### :pencil2: Study log
  
   <br/>
-  
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=js02sh&langs_count=10&layout=compact)]()
+  <br/>
+  <br/>
+  <br/>
 </div>
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning <br/>
+  - Bachelors of Automotive Engineering
+  - Rust Developer
+
 
 
 <!--
