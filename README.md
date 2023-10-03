@@ -28,7 +28,8 @@
   <br/>
 </div>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently studying at
+  -   Hanyange University
 - 🌱 I’m currently learning <br/>
   - Bachelors of Automotive Engineering
   - Rust Developer
