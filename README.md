@@ -1,4 +1,8 @@
 ### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Jisang%_Yun)
+
+<img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white">
+
 
 <!--
 **js02sh/js02sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
