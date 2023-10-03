@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Jisang%_Yun&fontColor=0b1d3b)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Jisang%_Yun)
   
 ####  :wave: Welcome my github profile !
 
