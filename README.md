@@ -1,7 +1,30 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Jisang%_Yun&fontColor=0b1d3b)
+<div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Jisang%_Yun&fontColor=0b1d3b)
+  
+####  :wave: Welcome my github profile !
+
+ <br/>
+ <br/>
+  
+####  :clipboard: Once I've Used 
+  
+ <br/>
 <img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+ 
+   <br/>
+   <br/>
+ 
+#### :pencil2: Study log
+ 
+  <br/>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=js02sh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 
 <!--
