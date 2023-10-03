@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Jisang%_Yun)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Jisang%_Yun&fontColor=0b1d3b)
 
 <img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white">
 
