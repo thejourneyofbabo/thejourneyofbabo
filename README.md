@@ -1,8 +1,9 @@
 ### Hi there 👋
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=190&section=header&text=Jisang%20Yun&fontSize=80&animation=fadeIn&fontAlignY=38&desc=The%20Journey%20of%20Babo%20&descAlignY=65&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=190&section=header&text=Jisang%20Yun&fontSize=80&animation=fadeIn&fontAlignY=38&desc=The%20Journey%20of%20BABO%20&descAlignY=65&descAlign=62)
 ####  :wave: Welcome my github profile !
+#### Boundless Adventure in Bridging Opportunities
 
  <br/>
  <br/>
@@ -28,6 +29,7 @@
   <br/>
 </div>
 
+- BABO_ Boundless Adventure in Bridging Opportunities
 - 🔭 I’m currently studying at
   -   Hanyange University
 - 🌱 I’m currently learning <br/>
@@ -43,7 +45,6 @@
 
 Here are some ideas to get you started:
 
-- BABO_ Boundless Adventure in Bridging Opportunities
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
