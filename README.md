@@ -34,7 +34,7 @@
   -   Hanyange University
 - 🌱 I’m currently learning <br/>
   - Bachelors of Automotive Engineering
-  - Rust Developer
+  - Rust Programming / Embedded
 
 [LinkedIn](https://www.linkedin.com/in/jisang-yun-097127271/)
 
