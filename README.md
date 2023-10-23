@@ -29,7 +29,7 @@
   <br/>
 </div>
 
-- BABO_ Boundless Adventure in Bridging Opportunities
+
 - 🔭 I’m currently studying at
   -   Hanyange University
 - 🌱 I’m currently learning <br/>
