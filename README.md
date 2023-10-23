@@ -3,7 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=190&section=header&text=Jisang%20Yun&fontSize=80&animation=fadeIn&fontAlignY=38&desc=The%20Journey%20of%20BABO%20&descAlignY=65&descAlign=62)
 ####  :wave: Welcome my github profile !
-#### Boundless Adventure in Bridging Opportunities
+### Boundless Adventure in Bridging Opportunities
 
  <br/>
  <br/>
