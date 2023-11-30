@@ -24,6 +24,7 @@
   <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=js02sh&langs_count=10&layout=compact)]()
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=js02sh&hide=jupyternotebook)
   <br/>
   <br/>
   <br/>
