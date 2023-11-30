@@ -36,7 +36,7 @@
   - Bachelors of Automotive Engineering
   - Rust Programming / Embedded
 
-[Portfolio](https://eminent-rambutan-f04.notion.site/f5f20a50224542a39c20e3fd7ab5ca9e?v=8bc8999463504985ac7a0360e8f60cce&pvs=4)
+[Portfolio](https://eminent-rambutan-f04.notion.site/f5f20a50224542a39c20e3fd7ab5ca9e?v=8bc8999463504985ac7a0360e8f60cce&pvs=4) / 
 [LinkedIn](https://www.linkedin.com/in/jisang-yun-097127271/)
 
 
