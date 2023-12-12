@@ -36,8 +36,16 @@
   - Bachelors of Automotive Engineering
   - Rust Programming / Embedded
 
-[Portfolio](https://eminent-rambutan-f04.notion.site/f5f20a50224542a39c20e3fd7ab5ca9e?v=8bc8999463504985ac7a0360e8f60cce&pvs=4) / 
-[LinkedIn](https://www.linkedin.com/in/jisang-yun-097127271/)
+## Contact 📞 
+</a>
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:journeyofbabo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+    <a href="https://www.linkedin.com/in/jisang-yun-097127271/">  
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+
+
+[Portfolio](https://eminent-rambutan-f04.notion.site/f5f20a50224542a39c20e3fd7ab5ca9e?v=8bc8999463504985ac7a0360e8f60cce&pvs=4)
 
 
 
