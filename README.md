@@ -35,7 +35,7 @@
 - 🌱 I’m currently learning <br/>
   - Bachelors of Automotive Engineering
   - Rust Programming / Embedded
-
+<br/><br/><br/><br/>
 ## Contact 📞 
 </a>
 <div style="display:flex; flex-direction:row;">
