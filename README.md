@@ -23,7 +23,7 @@
  
   <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=js02sh&hide=jupyternotebook&count=10&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=js02sh&hide=jupyternotebook,makefile&count=10&layout=compact)
   <br/>
   <br/>
   <br/>
